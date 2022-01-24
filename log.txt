@@ -1,0 +1,6 @@
+C:/u-pem/licence 1/semestre 2/Python/Projet Final/niveau1.txt
+(2, 4),(4, 0),(5, 1),(4, 1)
+niveau2.txt
+(4, 4),(3, 5)
+C:/Users/alexy/OneDrive/Desktop/UPEM/licence 1/semestre 2/Python/Projet Final/niveau1.txt
+(5, 1)
